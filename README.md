@@ -15,7 +15,7 @@ To run RecipeRush locally, you need to have [Node.js](https://nodejs.org/en/) in
 * Clone this repository to your local machine
 * Navigate to the project folder and run npm install to install the dependencies
 * Run npm start to start the development server
-* Open your browser and go to http://localhost: 8080 to see the application
+* Open your browser and go to 'http://localhost:8080' to see the application
 
   
 # Demo
