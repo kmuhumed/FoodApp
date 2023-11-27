@@ -20,7 +20,7 @@ To run Forkify locally, you need to have Node.js installed on your machine. Then
   
 # Demo
 
-You can see a live demo of RecipeRush here 
+You can see a live demo of RecipeRush [here] (https://www.google.com)
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
