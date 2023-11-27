@@ -20,7 +20,7 @@ To run RecipeRush locally, you need to have [Node.js](https://nodejs.org/en/) in
   
 # Demo
 
-You can see a live demo of RecipeRush [here](https://www.google.com)
+You can see a live demo of RecipeRush [here](https://reciperush.netlify.app/)
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
