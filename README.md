@@ -1,5 +1,5 @@
 # RecipeRush 
-RecipeRush, a web application, empowers users to explore diverse food recipes sourced from various outlets. It facilitates viewing detailed ingredient lists and instructions for each recipe, enabling users to compile a personalized collection of their favorite dishes. The application further provides the flexibility to adjust serving sizes, automatically updating ingredient quantities accordingly. Forkify is crafted using HTML, CSS, and JavaScript, leveraging the Forkify API to seamlessly fetch and display the recipes.
+RecipeRush, a web application, empowers users to explore diverse food recipes sourced from various outlets. It facilitates viewing detailed ingredient lists and instructions for each recipe, enabling users to compile a personalized collection of their favorite dishes. The application further provides the flexibility to adjust serving sizes, automatically updating ingredient quantities accordingly. RecipeRush is crafted using HTML, CSS, and JavaScript, leveraging the Forkify API to seamlessly fetch and display the recipes.
 
 # Features
 * Search for recipes by keyword or cuisine
@@ -10,7 +10,7 @@ RecipeRush, a web application, empowers users to explore diverse food recipes so
 * Access your saved recipes anytime and delete the ones you don't like
 
 # Installation
-To run Forkify locally, you need to have Node.js installed on your machine. Then follow these steps:
+To run RecipeRush locally, you need to have [Node.js](https://nodejs.org/en/) installed on your machine. Then follow these steps:
 
 * Clone this repository to your local machine
 * Navigate to the project folder and run npm install to install the dependencies
